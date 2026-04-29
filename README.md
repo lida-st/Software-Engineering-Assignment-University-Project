@@ -8,10 +8,8 @@ The application provides tools for tracking blood sugar levels, meals, exercise,
 
 ---
 
-## 👩‍💻 Authors
+## 👩‍💻 Author
 - Lida Statherou  
-- Sofia Poutachidou  
-
 ---
 
 ## 📌 Overview
