@@ -1,0 +1,53 @@
+# 🔹 Built application files
+*.apk
+*.aab
+*.ap_
+*.aar
+
+# 🔹 Files for the Dalvik VM
+*.dex
+
+# 🔹 Java class files
+*.class
+
+# 🔹 Generated files
+bin/
+gen/
+out/
+build/
+
+# 🔹 Gradle files
+.gradle/
+.gradle-cache/
+local.properties
+
+# 🔹 Log files
+*.log
+
+# 🔹 Android Studio / IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# 🔹 External native build
+.externalNativeBuild/
+.cxx/
+
+# 🔹 Google Services
+google-services.json
+
+# 🔹 Temporary files
+captures/
+.navigation/
+
+# 🔹 OS files
+.DS_Store
+Thumbs.db
+
+# 🔹 Keystore files (VERY IMPORTANT)
+*.jks
+*.keystore
+
+# 🔹 Proguard
+proguard/
