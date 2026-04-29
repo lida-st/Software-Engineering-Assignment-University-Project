@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true">
+        <activity
+            android:name=".view.Diabetic.Statistics.DeviationStatsActivity"
+            android:exported="false"
+            android:theme="@style/Theme.SugarSweet"/>
+        <activity
+            android:name=".view.Diabetic.Statistics.WeeklyStatsActivity"
+            android:exported="false"
+            android:theme="@style/Theme.SugarSweet"/>
+        <activity
+            android:name=".view.Diabetic.Statistics.MonthlyStatsActivity"
+            android:exported="false"
+            android:theme="@style/Theme.SugarSweet"/>
+        <activity
+            android:name=".view.Administrator.Ingredient.Ingredient2Activity"
+            android:exported="false"
+            android:theme="@style/Theme.SugarSweet" />
+        <activity
+            android:name=".view.Administrator.Exercise.Exercise2Activity"
+            android:exported="false"
+            android:theme="@style/Theme.SugarSweet" />
+        <activity
+            android:name=".view.Diabetic.Statistics.StatisticsActivity"
+            android:exported="false"
+            android:theme="@style/Theme.SugarSweet" />
+        <activity
+            android:name=".view.Diabetic.ExerciseLogActivity"
+            android:exported="false"
+            android:theme="@style/Theme.SugarSweet" />
+        <activity
+            android:name=".view.Diabetic.MealLogActivity"
+            android:exported="false"
+            android:theme="@style/Theme.SugarSweet" />
+        <activity
+            android:name=".view.Diabetic.SugarMeasurementActivity"
+            android:exported="false"
+            android:theme="@style/Theme.SugarSweet" />
+        <activity
+            android:name=".view.Diabetic.PersonalFactorActivity"
+            android:exported="false"
+            android:theme="@style/Theme.SugarSweet" />
+        <activity
+            android:name=".view.Administrator.Ingredient.IngredientActivity"
+            android:exported="false"
+            android:theme="@style/Theme.SugarSweet" />
+        <activity
+            android:name=".view.Administrator.Exercise.ExerciseActivity"
+            android:exported="false"
+            android:theme="@style/Theme.SugarSweet" />
+        <activity
+            android:name=".view.Diabetic.DiabeticMenuActivity"
+            android:exported="false"
+            android:theme="@style/Theme.SugarSweet" />
+        <activity
+            android:name=".view.Administrator.AdministratorMenuActivity"
+            android:exported="false"
+            android:theme="@style/Theme.SugarSweet" />
+        <activity
+            android:name=".view.Diabetic.DiabeticLoginActivity"
+            android:exported="false"
+            android:theme="@style/Theme.SugarSweet" />
+        <activity
+            android:name=".view.Administrator.AdministratorLoginActivity"
+            android:exported="false"
+            android:theme="@style/Theme.SugarSweet" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:theme="@style/Theme.SugarSweet">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>
