@@ -12,7 +12,54 @@ The application provides tools for tracking blood sugar levels, meals, exercise,
 - Lida Statherou  
 ---
 
+---
+
+## 🛠️ Technologies Used
+
+- Java (Android Development)
+- Android SDK
+- XML (UI Layouts)
+- MVC/MVVM-like structure
+
+---
+
+## 🎯 Skills & Concepts Applied
+
+Through this project, the following skills were developed:
+
+- ✔️ Mobile application development (Android)
+- ✔️ UI/UX design for real users
+- ✔️ System architecture and modular design
+- ✔️ Data modeling for health tracking
+- ✔️ Role-based system design (Admin/User)
+- ✔️ Implementation of statistics and data analysis features
+
+---
+
+## 🚀 What I Gained
+
+Working on this project helped me:
+
+- Understand how to design a **real-world health application**
+- Improve my ability to **structure complex systems**
+- Gain hands-on experience in **Android development**
+- Learn how to **separate concerns between user roles**
+- Develop **problem-solving skills in real scenarios**
+
+---
+
+## 📌 Notes
+
+This project was developed as part of academic coursework and focuses on applying system design and software development principles in a practical context.
+
+---
+
+## ⭐ Thoughts
+
+SugarSweet represents a complete system that combines **software engineering, system design, and real-world application needs**, offering a practical solution for diabetes management.
 ## 📌 Overview
+
+---
 
 SugarSweet is a mobile information system that focuses on:
 
